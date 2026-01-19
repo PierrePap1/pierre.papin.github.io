@@ -1,9 +1,3 @@
----
-layout: default
-title: Pierre PAPIN - Portfolio
-description: Étudiant ingénieur ESEO (EOC) à Angers, alternant concepteur hardware au Groupe Atlantic
----
-
 <style>
 .navbar {
   position: sticky;
@@ -17,13 +11,13 @@ description: Étudiant ingénieur ESEO (EOC) à Angers, alternant concepteur har
   margin-bottom: 2rem;
 }
 .navbar a {
-  color: #58a6ff !important;
+  color: #58a6ff;
   margin: 0 1.5rem;
   text-decoration: none;
   font-weight: bold;
 }
-.navbar a:hover { color: #1f6feb !important; }
-.content { max-width: 800px; margin: 0 auto; padding: 1rem; }
+.navbar a:hover { color: #1f6feb; }
+.content { max-width: 800px; margin: 2rem auto; padding: 0 1rem; }
 </style>
 
 <div class="navbar">
@@ -35,22 +29,23 @@ description: Étudiant ingénieur ESEO (EOC) à Angers, alternant concepteur har
 
 <div class="content">
 
-# <a id="accueil"></a>Bonjour et bienvenue !
+<h1 id="accueil">Bonjour et bienvenue !</h1>
 
-Voici mon **portfolio** : vous y trouverez mon parcours, mes réalisations scolaires et professionnelles.  
-L'électronique étant aussi mon **hobby personnel**, il est agrémenté de projets domestiques.
+<p>Voici mon <strong>portfolio</strong> : vous y trouverez mon parcours, mes réalisations scolaires et professionnelles.</p>
+<p>L'électronique étant aussi mon <strong>hobby personnel</strong>, il est agrémenté de projets domestiques.</p>
 
-## <a id="parcours"></a>Mon parcours
-- **Étudiant ingénieur** ESEO (option Électronique et Objets Connectés) à Angers  
-- **Alternant concepteur hardware** au Groupe Atlantic à La Roche-sur-Yon  
+<h2 id="parcours">Mon parcours</h2>
+<ul>
+  <li><strong>Étudiant ingénieur</strong> ESEO (option Électronique et Objets Connectés) à Angers</li>
+  <li><strong>Alternant concepteur hardware</strong> au Groupe Atlantic à La Roche-sur-Yon</li>
+</ul>
 
-## <a id="projets"></a>Mes projets
-- Projet 1 : Description  
-- Projet 2 : Description  
+<h2 id="projets">Mes projets</h2>
+<!-- Ajoute tes projets ici -->
 
-## <a id="contact"></a>Contact
-✉️ pierre.papin@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/pierre-papin)  
-📍 Chennevières-sur-Marne, Île-de-France
+<h2 id="contact">Contact</h2>
+<p>✉️ pierre.papin@example.com<br>
+🔗 <a href="https://linkedin.com/in/pierre-papin">LinkedIn</a><br>
+📍 Chennevières-sur-Marne, Île-de-France</p>
 
 </div>
