@@ -1,3 +1,1 @@
-# Pierre PAPIN
-
-Bonjour et bienvenue sur mon github 
+Collègue, recruteur ou curieux, Bonjour et bienvenue sur mon github 
