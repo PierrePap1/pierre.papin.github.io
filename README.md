@@ -15,15 +15,11 @@
 
 ```mermaid
 timeline
-    title Frise Pierre PAPIN
-    BAC PRO SN : 2018-09 : Réseaux Informatiques
-              : 2021-07
+    title Parcours Complet
+    section Formation
+    BAC PRO : 2018-2021 : Systèmes Numériques Réseaux
+    BTS SN : 2021-2023 : Électronique Communications
+    ESEO : 2023- : Ingénieur Objets Connectés
     
-    BTS SN : 2021-09 : Électronique Communications
-           : 2023-07
-    
-    ESEO Ingénieur : 2023-09 : Électronique Objets Connectés
-                   : En cours
-    
-    Groupe Atlantic : 2023-09 : Apprenti Concepteur Électronique
-                     : En cours
+    section Professionnel
+    Groupe Atlantic : 2023- : Concepteur Électronique Atlantic
