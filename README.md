@@ -16,3 +16,8 @@
   <a href="#projets" style="color: #c9d1d9; font-size: 18px; font-weight: bold; text-decoration: none; padding: 10px 20px; border-radius: 8px; transition: background 0.3s;">⚡ Projets</a>
   <a href="#contact" style="color: #c9d1d9; font-size: 18px; font-weight: bold; text-decoration: none; padding: 10px 20px; border-radius: 8px; transition: background 0.3s;">📧 Contact</a>
 </div>
+<div style="text-align: center; margin: 40px 0;">
+  <h1 style="font-size: 3.5em; color: #58a6ff; margin: 0; text-shadow: 0 0 20px rgba(88, 166, 255, 0.5);">Pierre PAPIN</h1>
+  <p style="font-size: 1.5em; color: #8b949e; margin: 10px 0 0 0;">Étudiant Ingénieur Électronique & Objets Connectés</p>
+  <p style="font-size: 1.2em; color: #8b949e;">ESEO Angers • Alternant Hardware Designer @ Groupe Atlantic [web:7][memory:3]</p>
+</div>
