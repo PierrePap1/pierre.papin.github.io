@@ -14,16 +14,16 @@
 ## 🛤️ Parcours {#parcours}
 
 ```mermaid
-gantt
-    title Mon Parcours Professionnel
-    dateFormat YYYY-MM
-    axisFormat %Y
+timeline
+    title Frise Pierre PAPIN
+    BAC PRO SN : 2018-09 : Réseaux Informatiques
+              : 2021-07
     
-    section ESEO Angers
-    Études Ingénieur :2024-09, 24m
+    BTS SN : 2021-09 : Électronique Communications
+           : 2023-07
     
-    section Groupe Atlantic
-    Alternance Hardware :2025-01, 18m
+    ESEO Ingénieur : 2023-09 : Électronique Objets Connectés
+                   : En cours
     
-    section Projets DIY
-    Macro-Board QMK :2026-01, 6m
+    Groupe Atlantic : 2023-09 : Apprenti Concepteur Électronique
+                     : En cours
